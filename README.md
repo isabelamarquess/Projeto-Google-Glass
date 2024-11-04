@@ -1,2 +1,2 @@
-# Projeto Google Glass
- Projeto do curso de HTML5 e de CSS3
+# Projeto google glass
+ Projeto do curso de HTML5 do Gustavo Guanabara
